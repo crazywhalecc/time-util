@@ -1,0 +1,17 @@
+{
+  "name": "crazywhalecc/time-util",
+  "description": "A simple time util for GMT+8 Developers.",
+  "minimum-stability": "stable",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "jerry",
+      "email": "admin@zhamao.me"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "crazywhalecc\\TimeUtil\\": "src/crazywhalecc/TimeUtil"
+    }
+  }
+}
